@@ -12,7 +12,7 @@ If you believe you've found a security issue in software maintained in this repo
 
 ## How to Submit a Report
 
-To submit a vulnerability report, please contact us at **rozanski.patryk98@gmail.com**. Your submission will be reviewed and validated by a member of our team.
+To submit a vulnerability report, please contact us at **r45k1@users.noreply.github.com**. Your submission will be reviewed and validated by a member of our team.
 
 > [!WARNING]  
 > Please do **not** report security vulnerabilities through public GitHub issues, discussions, or pull requests.
