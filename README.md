@@ -1,4 +1,4 @@
-# 🇵🇱 FajneIkonki - polish icon
+# 🇵🇱 FajneIkonki - Polish Icon - Free
 
 **FajneIkonki** is a free and open-source icon pack for the web. It comes as a webfont with ready-to-use CSS classes. Just add one line in your `<head>`, and you're ready to use clean, lightweight icons in any project.
 
