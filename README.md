@@ -4,6 +4,7 @@
 
 Perfect for websites, dashboards, blogs, and frontend frameworks.
 
+## ⏲️ The start date of the open-source project: July 8, 2025
 ---
 
 ## 🔧 Easy connect link
@@ -16,9 +17,6 @@ Add to `<head>` your HTML:
 ## 📁 Project structure
 FajneIkonki/  
 ├── css/  
-│ └── icons.css  
-├── fonts/  
-│ ├── FajneIkonki.woff   
-│ └── FajneIkonki.ttf  
+│ └── fajneikonki.css  
 ├── LICENSE  
 └── README.md  
