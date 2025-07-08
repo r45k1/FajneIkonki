@@ -12,7 +12,24 @@ Perfect for websites, dashboards, blogs, and frontend frameworks.
 Add to `<head>` your HTML:
 
 ```html
-<link rel="stylesheet" href="https://github.com/r45k1/FajneIkonki/css/fajneikonki.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/r45k1/FajneIkonki@main/css/fajneikonki.css" />
+```
+## 🖱️ Basic HTML show icon
+
+Add to `<head>` your HTML:
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/r45k1/FajneIkonki@main/css/fajneikonki.css" />
+</head>
+<body>
+   <!-- Icon Brand FajneIkonki Logo -->
+  <i class="fajneikonki fi">FajneIkonki/i>
+
+</body>
+</html>
 ```
 ## 📁 Project structure
 FajneIkonki/  
