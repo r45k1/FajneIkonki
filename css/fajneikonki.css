@@ -1,7 +1,7 @@
 .fajneikonki {
     display: inline-block;
-    width: 24px;
-    height: 24px;
+    width: 48px;
+    height: 48px;
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
@@ -10,7 +10,7 @@
  
 /* #001 facebook */
   .fajneikonki.gost {
-    background-image: url("https://www.svgrepo.com/show/532036/cloud-rain-alt.svg");
+    background-image: url("https://cyfryzacjatransportu.pl/assets/apka/dzwon.svg");
   }
 
 
