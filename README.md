@@ -12,7 +12,7 @@ Perfect for websites, dashboards, blogs, and frontend frameworks.
 Add to `<head>` your HTML:
 
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/r45k1/FajneIkonki@main/css/fajneikonki.css" />
+<link rel="stylesheet" href="https://r45k1.github.io/FajneIkonki/css/fajneikonki.css" />
 ```
 ## 🖱️ Basic HTML show icon
 
@@ -22,11 +22,11 @@ Add to `<head>` your HTML:
 <!DOCTYPE html>
 <html>
 <head>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/r45k1/FajneIkonki@main/css/fajneikonki.css" />
+<link rel="stylesheet" href="https://r45k1.github.io/FajneIkonki/css/fajneikonki.css" />
 </head>
 <body>
    <!-- Icon Brand FajneIkonki Logo -->
-  <i class="fajneikonki fi">FajneIkonki</i>
+  <i class="fajneikonki fi"></i> FajneIkonki
 
 </body>
 </html>
