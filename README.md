@@ -20,3 +20,14 @@ FajneIkonki/
 │ └── fajneikonki.css  
 ├── LICENSE  
 └── README.md  
+
+## 👤 Author
+
+Created by [Patryk @R45K1 Różański](https://github.com/R45K1).
+
+---
+
+## ⭐ Support
+
+If you find **FajneIkonki** useful, please consider giving this repository a star. It helps me keep the project alive and improve it!
+
