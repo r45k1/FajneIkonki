@@ -26,7 +26,7 @@ Add to `<head>` your HTML:
 </head>
 <body>
    <!-- Icon Brand FajneIkonki Logo -->
-  <i class="fajneikonki fi">FajneIkonki/i>
+  <i class="fajneikonki fi">FajneIkonki</i>
 
 </body>
 </html>
