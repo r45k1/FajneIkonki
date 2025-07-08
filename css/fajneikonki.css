@@ -7,18 +7,11 @@
     background-position: center;
   }
   
-  /* #001 instagram */
-.fajneikonki.instagram {
-    background-image: url("../icons/instagram.svg");
-  }
-  
-  /* #002 facebook */
-  .fajneikonki.facebook {
+ 
+/* #001 facebook */
+  .fajneikonki.gost {
     background-image: url("https://www.svgrepo.com/show/532036/cloud-rain-alt.svg");
   }
-  
-  /* #003 twitter */
-  .fajneikonki.twitter {
-    background-image: url("../icons/twitter.svg");
-  }
+
+
   
