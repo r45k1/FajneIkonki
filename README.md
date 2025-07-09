@@ -31,6 +31,7 @@ Perfect for websites, dashboards, blogs, and frontend frameworks.
 Add to `<head>` your HTML:
 
 ```html
+<!-- FajneIkonki CSS -->
 <link rel="stylesheet" href="https://r45k1.github.io/FajneIkonki/css/fajneikonki.css" />
 ```
 ## 🖱️ Basic HTML show icon
