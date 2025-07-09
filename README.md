@@ -1,10 +1,10 @@
 # 🇵🇱 FajneIkonki - Polish Icon - Free
 
-<img src="https://raw.githubusercontent.com/r45k1/FajneIkonki/main/css/icons/fajneikonki_fi.svg" width="64" height="64" alt="FajneIkonki fi" /> **FajneIkonki** is a free and open-source icon pack for the web. It comes as a webfont with ready-to-use CSS classes. Just add one line in your `<head>`, and you're ready to use clean, lightweight icons in any project.
+ **FajneIkonki** is a free and open-source icon pack for the web. It comes as a webfont with ready-to-use CSS classes. Just add one line in your `<head>`, and you're ready to use clean, lightweight icons in any project.
 
 Perfect for websites, dashboards, blogs, and frontend frameworks.
 
-##Icons pack
+## <img src="https://raw.githubusercontent.com/r45k1/FajneIkonki/main/css/icons/fajneikonki_fi.svg" width="64" height="64" alt="FajneIkonki fi" /> Icons pack
 
 <div style="display: flex; overflow-x: auto; gap: 10px; padding: 10px;">
   <img src="https://raw.githubusercontent.com/r45k1/FajneIkonki/main/css/icons/fajneikonki_ad.svg" width="64" height="64" alt="FajneIkonki ad" />
