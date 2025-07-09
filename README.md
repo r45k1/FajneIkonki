@@ -4,7 +4,7 @@
 
 Perfect for websites, dashboards, blogs, and frontend frameworks.
 
-## <img src="https://raw.githubusercontent.com/r45k1/FajneIkonki/main/css/icons/fajneikonki_fi.svg" width="64" height="64" alt="FajneIkonki fi" /> Icons pack
+## <img src="https://raw.githubusercontent.com/r45k1/FajneIkonki/main/css/icons/fajneikonki_fiwhite.svg" width="64" height="64" alt="FajneIkonki fi" /> Icons pack
 
 <div style="display: flex; overflow-x: auto; gap: 10px; padding: 10px;">
   <img src="https://raw.githubusercontent.com/r45k1/FajneIkonki/main/css/icons/fajneikonki_ad.svg" width="64" height="64" alt="FajneIkonki ad" />
