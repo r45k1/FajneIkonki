@@ -7,7 +7,9 @@
     background-position: center;
   }
   
- 
+
+/* Icon FajneIkonki Darknes oval languages 08/07/2025 */
+
 /* #001 Icon Brand FajneIkonki Logo */
   .fajneikonki.fi {
     background-image: url("https://r45k1.github.io/FajneIkonki/css/icons/fajneikonki_fi.svg");
@@ -73,3 +75,74 @@
     background-image: url("https://r45k1.github.io/FajneIkonki/css/icons/fajneikonki_ux.svg");
   }
 
+/* Icon FajneIkonki Navy 10/07/2025 */
+
+/* #017 Icon FajneIkonki Navy speaker */
+.fajneikonki.speaker {
+  background-image: url("https://r45k1.github.io/FajneIkonki/css/icons/fajneikonki_speaker.svg");
+}
+
+/* #018 Icon FajneIkonki Navy mentor */
+.fajneikonki.mentor {
+  background-image: url("https://r45k1.github.io/FajneIkonki/css/icons/fajneikonki_mentor.svg");
+}
+
+/* #019 Icon FajneIkonki Navy hacker */
+.fajneikonki.hacker {
+  background-image: url("https://r45k1.github.io/FajneIkonki/css/icons/fajneikonki_hacker.svg");
+}
+
+/* #020 Icon FajneIkonki Navy designer */
+.fajneikonki.designer {
+  background-image: url("https://r45k1.github.io/FajneIkonki/css/icons/fajneikonki_designer.svg");
+}
+
+/* #021 Icon FajneIkonki Navy reviewer */
+.fajneikonki.reviewer {
+  background-image: url("https://r45k1.github.io/FajneIkonki/css/icons/fajneikonki_reviewer.svg");
+}
+
+/* #022 Icon FajneIkonki Navy devops */
+.fajneikonki.devops {
+  background-image: url("https://r45k1.github.io/FajneIkonki/css/icons/fajneikonki_devops.svg");
+}
+
+/* #023 Icon FajneIkonki Navy tester */
+.fajneikonki.tester {
+  background-image: url("https://r45k1.github.io/FajneIkonki/css/icons/fajneikonki_tester.svg");
+}
+
+/* #024 Icon FajneIkonki Navy learner */
+.fajneikonki.learner {
+  background-image: url("https://r45k1.github.io/FajneIkonki/css/icons/fajneikonki_learner.svg");
+}
+
+/* #025 Icon FajneIkonki Navy coder */
+.fajneikonki.coder {
+  background-image: url("https://r45k1.github.io/FajneIkonki/css/icons/fajneikonki_coder.svg");
+}
+
+/* #026 Icon FajneIkonki Navy builder */
+.fajneikonki.builder {
+  background-image: url("https://r45k1.github.io/FajneIkonki/css/icons/fajneikonki_builder.svg");
+}
+
+/* #027 Icon FajneIkonki Navy guru */
+.fajneikonki.guru {
+  background-image: url("https://r45k1.github.io/FajneIkonki/css/icons/fajneikonki_guru.svg");
+}
+
+/* #028 Icon FajneIkonki Navy coach */
+.fajneikonki.coach {
+  background-image: url("https://r45k1.github.io/FajneIkonki/css/icons/fajneikonki_coach.svg");
+}
+
+/* #029 Icon FajneIkonki Navy writer */
+.fajneikonki.writer {
+  background-image: url("https://r45k1.github.io/FajneIkonki/css/icons/fajneikonki_writer.svg");
+}
+
+/* #030 Icon FajneIkonki Navy maker */
+.fajneikonki.maker {
+  background-image: url("https://r45k1.github.io/FajneIkonki/css/icons/fajneikonki_maker.svg");
+}
